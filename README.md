@@ -6,7 +6,7 @@ read my [blog](https://avijitacharjee.com)
 
 <div>
   <img height="190" align="left" src="https://github-readme-stats.vercel.app/api?username=avijitacharjee&count_private=true&include_all_commits=true&bg_color=00000000&border_radius=0&title_color=76ab97&text_color=e8e4d9" />
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=avijitacharjee&theme=dark&hide_border=false)<br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avijitacharjee&theme=dark&hide_border=false"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avijitacharjee&layout=compact&langs_count=8&hide=objective-c,roff,Makefile&exclude_repo=website&bg_color=00000000&border_radius=0&title_color=76ab97&text_color=e8e4d9" />
 </div>
 
