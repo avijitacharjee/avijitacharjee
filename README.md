@@ -39,7 +39,7 @@ read my [blog](https://avijitacharjee.com)
 
 
 <!-- Rahul dk jain -->
-![](https://readme-typing-svg.herokuapp.com/?size=30&color=76ab97&center=true&vCenter=true&lines=>+Hi,I'm+Avijit+Acharjee)
+![](https://readme-typing-svg.herokuapp.com/?size=30&color=76ab97&center=true&vCenter=true&lines=>+I'm+Avijit+Acharjee)
 <h3 align="center">An android developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avijitacharjee&label=Profile%20views&color=0e75b6&style=flat" alt="avijitacharjee" /> </p>
