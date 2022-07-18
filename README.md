@@ -9,7 +9,14 @@ read my [blog](https://avijitacharjee.com)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=avijitacharjee&theme=dark&hide_border=false"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avijitacharjee&layout=compact&langs_count=8&hide=objective-c,roff,Makefile&exclude_repo=website&bg_color=00000000&border_radius=0&title_color=76ab97&text_color=e8e4d9" />
 </div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=avijitacharjee&icon=0&color=0)](https://visitcount.itsvg.in) 
 
 
 <!-- gprm.itsvg.in -->
